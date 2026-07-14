@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Alberto Rodriguez Banner" width="100%">
+</p>
+
 # Hi, I'm Alberto Rodriguez 👋
 
 ### Software Engineer | Computer Science Student | Full-Stack Developer
